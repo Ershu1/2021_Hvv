@@ -1,5 +1,5 @@
 ### 描述
-暂无
+fofa app="网康科技-下一代防火墙"
 
 ### 利用
 利用jar包： `https://github.com/Yang0615777/PocList/blob/main/QiAnXin-WangKangFirewall-RCE.jar`
